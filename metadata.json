@@ -1,0 +1,8 @@
+{
+  "name": "Gemini AI Think Tank",
+  "description": "A high-fidelity video conferencing application that allows you to have a multi-persona brainstorming session with 4 distinct AI experts powered by Gemini Live.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
